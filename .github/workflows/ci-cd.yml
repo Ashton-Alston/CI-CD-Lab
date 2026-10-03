@@ -33,5 +33,5 @@
            uses: actions/upload-artifact@v4
            with:
              name: webpage
-             path: index.htm
+             path: index.html
              if-no-files-found: error
