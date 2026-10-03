@@ -1,2 +1,2 @@
 # CI-CD-Lab
-Build a Continuous Integration/Continuous Deployment Workflow
+A simple CI/CD workflow using GitHub Actions that builds, deploys, and uploads a web page.
