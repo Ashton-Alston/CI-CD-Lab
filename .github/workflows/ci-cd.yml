@@ -30,7 +30,7 @@
          - name: Checkout repository
            uses: actions/checkout@v4
          - name: Upload index.html as an artifact
-           uses: actions/checkout@v99
+           uses: actions/checkout@v4
            with:
              name: webpage
              path: index.html
