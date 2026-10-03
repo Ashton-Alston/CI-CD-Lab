@@ -12,7 +12,7 @@
          - name: Checkout repository
            uses: actions/checkout@v4
          - name: Build step
-           run: echo "Build OK - HTML validated"
+           run: exit 1
 
      deploy:
        runs-on: ubuntu-latest
