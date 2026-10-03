@@ -34,3 +34,4 @@
            with:
              name: webpage
              path: index.htm
+             if-no-files-found: error
